@@ -3,7 +3,7 @@
 
 Grupo:\
 
-Arthur Caldeira
-Dárcio Melo
-Felipe dos Santos
-Vinícius Henriques
+Arthur Caldeira\
+Dárcio Melo\
+Felipe dos Santos\
+Vinícius Henriques\
