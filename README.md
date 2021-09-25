@@ -1,7 +1,7 @@
 # Atividade 02 - Laboratório de Manutenção
 ---
 
-Grupo: \tab
+Grupo:\
 
 Arthur Caldeira
 Dárcio Melo
